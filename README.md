@@ -56,7 +56,8 @@ Version Control	Git & GitHub
 
 📂 Project Structure
 
-'''Image-Fusion-CNN/
+'''bash
+Image-Fusion-CNN/
 │
 ├── dataset/
 │   ├── input_images/
