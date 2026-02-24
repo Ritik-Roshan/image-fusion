@@ -56,55 +56,31 @@ Version Control	Git & GitHub
 
 📂 Project Structure
 
-Image-Fusion-CNN/
-
+'''Image-Fusion-CNN/
 │
-
 ├── dataset/
-
 │   ├── input_images/
-
 │   └── ground_truth/
-
 │
-
 ├── models/
-
 │   └── cnn_fusion_model.h5
-
 │
-
 ├── notebooks/
-
 │   └── Image_Fusion_CNN.ipynb
-
 │
-
 ├── src/
-
 │   ├── preprocessing.py
-
 │   ├── model.py
-
 │   ├── fusion.py
-
 │   ├── train.py
-
 │   └── evaluate.py
-
 │
-
 ├── results/
-
 │   ├── fused_images/
-
 │   └── performance_metrics/
-
 │
-
 ├── requirements.txt
-
-└── README.md
+└── README.md'''
 
 ⚙️ Methodology
 
