@@ -187,15 +187,25 @@ Entropy
 Mean Squared Error (MSE)
 
 ▶️ Installation & Setup
+
 Step 1: Clone Repository
+
 git clone https://github.com/yourusername/Image-Fusion-CNN.git
+
 cd Image-Fusion-CNN
+
 Step 2: Install Dependencies
+
 pip install -r requirements.txt
+
 Step 3: Run Training
+
 python src/train.py
+
 Step 4: Generate Fused Image
+
 python src/fusion.py
+
 📸 Results
 
 The CNN-based fusion method produces:
@@ -211,6 +221,7 @@ Enhanced visual clarity
 Output images are stored inside:
 
 /results/fused_images
+
 🚀 Applications
 
 Medical Image Fusion (MRI + CT)
