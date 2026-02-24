@@ -21,7 +21,10 @@ Reduce noise and distortion during fusion.
 Generate a high-quality fused image suitable for analysis.
 
 🧱 Project Architecture
+
+
 Workflow Pipeline
+
 Input Images
      ↓
 Preprocessing
@@ -33,7 +36,9 @@ Feature Fusion Layer
 Reconstruction Network
      ↓
 Fused Output Image
+
 🧰 Technologies & Tools Used
+
 Category	Tools / Libraries
 Programming Language	Python
 Deep Learning Framework	TensorFlow / Keras
@@ -43,7 +48,9 @@ Visualization	Matplotlib
 Model Training	CNN
 Development Environment	Jupyter Notebook
 Version Control	Git & GitHub
+
 📂 Project Structure
+
 Image-Fusion-CNN/
 │
 ├── dataset/
@@ -69,7 +76,9 @@ Image-Fusion-CNN/
 │
 ├── requirements.txt
 └── README.md
+
 ⚙️ Methodology
+
 1️⃣ Data Preprocessing
 
 Image resizing and normalization
