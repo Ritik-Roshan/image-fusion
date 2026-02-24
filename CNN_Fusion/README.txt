@@ -16,3 +16,5 @@ The CNN model is learned by Caffe and then converted into a '.mat' file.
 Please note that the running time reported in the paper is implemented with C++ using Caffe GPU mode. The results obtained with this MATLAB implementation could be used for comparison with your methods. The computational speed is relatively low using MATLAB (about two minutes on a 3.6GHz CPU).
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Author By: Ritik Roshan 
+Any Query Ping me at ritikroshanunique@gmail.com
