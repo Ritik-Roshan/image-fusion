@@ -54,8 +54,11 @@ Version Control	Git & GitHub
 Image-Fusion-CNN/
 │
 ├── dataset/
+
 │   ├── input_images/
+
 │   └── ground_truth/
+
 │
 ├── models/
 │   └── cnn_fusion_model.h5
